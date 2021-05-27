@@ -3,7 +3,7 @@
 ## About
 
 A Django web application that uses `GenericForeignKey` to reduce the dependence on multiple `ForeignKey` in single model. 
-The repository is reference to my blog article [How and when to use GenericForeignKey in Django]()
+The repository is reference to my blog article [How and when to use GenericForeignKey in Django](https://dipbazz.medium.com/how-and-when-to-use-genericforeignkey-in-django-ad88202be0f)
 
 ## Getting the app in the local machine.
 
@@ -51,7 +51,7 @@ The repository is reference to my blog article [How and when to use GenericForei
 
 ## Acknowledgments
 - I have followed the article [How to Use Django's Generic Relations](https://simpleisbetterthancomplex.com/tutorial/2016/10/13/how-to-use-generic-relations.html) from [simple is better than complex](https://simpleisbetterthancomplex.com/)
-- The official Djnago documentations is really great to understand the concept of [contenttypes framework and Generic Relation](https://docs.djangoproject.com/en/3.2/ref/contrib/contenttypes/)
+- The official Django documentation is really great for understanding the concept of [contenttypes framework and Generic Relation](https://docs.djangoproject.com/en/3.2/ref/contrib/contenttypes/)
 
 ## 📝 License
 
