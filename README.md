@@ -19,6 +19,10 @@ The repository is reference to my blog article [How and when to use GenericForei
     ```
     source venv/bin/activate
     ```
+- Install project requirements.
+    ```
+    pip install -r requirements.txt
+    ```
 - Migrate the migrations file.
     ```
     python manage.py migrate
